@@ -19,4 +19,4 @@ Course assignment: Use R to clean up Samsung Galaxy S accelerometer dataset
 	- X_test.txt
 	- features.txt
 
-See CodeBook.md as a guide for output files.
+See CodeBook.md as a guide for output files
